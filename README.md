@@ -7,7 +7,7 @@
 ## Individual Courses
   1. Neural Networks and Deep Learning ( https://www.coursera.org/account/accomplishments/certificate/M5D6UX6H89TX )
   2. Improving Deep Neural Networks ( https://www.coursera.org/account/accomplishments/certificate/G9N2MEBHY3PY )
-  3. 
+  3. Structuring Machine Learning Projects ( https://www.coursera.org/account/accomplishments/certificate/DYJ9WZMYRFDQ )
   4.
   5.
   6. Machine Learning - By Andrew Ng 
