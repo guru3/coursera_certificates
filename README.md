@@ -2,7 +2,8 @@
 
 ## Specializations
   1. Deep Learning
-  2. Mathematics for Machine Learning ( https://www.coursera.org/account/accomplishments/specialization/certificate/XF3W58KPY9BE )
+  2. Data Science
+  3. Mathematics for Machine Learning ( https://www.coursera.org/account/accomplishments/specialization/certificate/XF3W58KPY9BE )
 
 ## Individual Courses
   1. Neural Networks and Deep Learning ( https://www.coursera.org/account/accomplishments/certificate/M5D6UX6H89TX )
@@ -11,6 +12,17 @@
   4. Convolutional Neural Networks ( https://www.coursera.org/account/accomplishments/certificate/5DTSGPZ7S8PV )
   5. 
   6. Machine Learning - By Andrew Ng 
-  7. Mathematics for Machine Learning - Linear Algebra ( https://www.coursera.org/account/accomplishments/certificate/A9JJKD8MXNV2 )
-  8. Mathematics for Machine Learning - Multivariate Calculus ( https://www.coursera.org/account/accomplishments/certificate/U7AQYKXCCWBM )
-  9. Mathematics for Machine Learning - PCA ( https://www.coursera.org/account/accomplishments/certificate/4KPXTYMMDAVC )
+  7. The Data Scientist's Toolbox ( https://www.coursera.org/account/accomplishments/certificate/GR2GUDW3QSLQ )
+  8.
+  9.
+  10.
+  11.
+  12.
+  13.
+  14.
+  15.
+  16. 
+  17. Mathematics for Machine Learning - Linear Algebra ( https://www.coursera.org/account/accomplishments/certificate/A9JJKD8MXNV2 )
+  18. Mathematics for Machine Learning - Multivariate Calculus ( https://www.coursera.org/account/accomplishments/certificate/U7AQYKXCCWBM )
+  19. Mathematics for Machine Learning - PCA ( https://www.coursera.org/account/accomplishments/certificate/4KPXTYMMDAVC )
+  
