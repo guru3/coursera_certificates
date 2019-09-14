@@ -1,8 +1,8 @@
 # Coursera Certificates
 
 ## Specializations
-  1. Deep Learning
-  2. Data Science
+  1. Deep Learning ( https://www.coursera.org/account/accomplishments/specialization/certificate/ZWGG52DSVTC4 )
+  2. Data Science 
   3. Mathematics for Machine Learning ( https://www.coursera.org/account/accomplishments/specialization/certificate/XF3W58KPY9BE )
 
 ## Individual Courses
@@ -10,7 +10,7 @@
   2. Improving Deep Neural Networks ( https://www.coursera.org/account/accomplishments/certificate/G9N2MEBHY3PY )
   3. Structuring Machine Learning Projects ( https://www.coursera.org/account/accomplishments/certificate/DYJ9WZMYRFDQ )
   4. Convolutional Neural Networks ( https://www.coursera.org/account/accomplishments/certificate/5DTSGPZ7S8PV )
-  5. 
+  5. Sequences Models ( https://www.coursera.org/account/accomplishments/certificate/2FY58LXXNU4P )
   6. Machine Learning - By Andrew Ng 
   7. The Data Scientist's Toolbox ( https://www.coursera.org/account/accomplishments/certificate/GR2GUDW3QSLQ )
   8.
