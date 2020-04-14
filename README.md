@@ -5,7 +5,7 @@
   2. Advanced Data Science with IBM  
   3. Data Science 
   4. Mathematics for Machine Learning ( https://www.coursera.org/account/accomplishments/specialization/certificate/XF3W58KPY9BE )
-  5. Software design and architecture
+  5. Software design and architecture ( https://www.coursera.org/account/accomplishments/specialization/certificate/4FGDK9NDD5LK )
 
 ## Individual Courses
   1. Neural Networks and Deep Learning ( https://www.coursera.org/account/accomplishments/certificate/M5D6UX6H89TX )
@@ -30,5 +30,5 @@
   20. Object Oriented Design ( https://www.coursera.org/account/accomplishments/certificate/HH5YU76DE9VC )
   21. Design Patterns ( https://www.coursera.org/account/accomplishments/certificate/NVAME7KMU7YJ )
   22. Software Architecture ( https://www.coursera.org/account/accomplishments/certificate/8KSKD92DLT85 )
-  23. Service-Oriented Architecture ( )
+  23. Service-Oriented Architecture ( https://www.coursera.org/account/accomplishments/certificate/QU2SLJWP4JTS )
   24. Fundamentals of Scalable Data Science ( https://www.coursera.org/account/accomplishments/certificate/BZXJFK782FAX )
