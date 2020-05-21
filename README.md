@@ -1,5 +1,7 @@
 # Coursera Certificates
 
+<ones without certificates are in-progress or planned in future>
+  
 ## Specializations
   1. Deep Learning ( https://www.coursera.org/account/accomplishments/specialization/certificate/ZWGG52DSVTC4 )
   2. Advanced Data Science with IBM  
